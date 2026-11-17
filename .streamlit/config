@@ -1,0 +1,7 @@
+[theme]
+# base를 지정하지 않아 사용자의 라이트/다크 설정을 따른다.
+primaryColor = "#4F6BED"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
